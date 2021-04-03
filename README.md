@@ -30,3 +30,4 @@ Below is a link to the story in Tableau called "Key Outcomes of the NYC Citibike
 
 In general New Yorkers use the bikes for commuting to work and home as the most popular times are morning and after work period of time.The bikes are also used during weekend for leisure and commuting. Young male customers are the dominent users.Majory of bikers are subscribers.  
 
+Sugessted more visualizatios are checkout time by age or BirthYear and user type. We can also find the rerlationship between station locations and customers genders or even age to learn more about the demographic of the riders around stations.
