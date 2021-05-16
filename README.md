@@ -20,7 +20,7 @@ Below are analysis requestd by investores:
 - The bikes were used by 1,530,272 male riders (64%) versus 588,431 female customers (25%) and 255,521 (11%) riders were unkowned in terms of gender.
 - The bikes are used by subscribers and Thursdays are the most popular days for riding bikes
 - The younger demographic tend to have a larger average trip during August in New York
-- 
+
 
 ## Summary
 
