@@ -26,8 +26,8 @@ Below are analysis requestd by investores:
 
 Below is a link to the story in Tableau called "Key Outcomes of the NYC Citibikes Analysis"
 
-[Click Here to View Tableau Story](https://public.tableau.com/profile/lida.ghalam#!/vizhome/BikeSharing_16173228046210/KeyOutcomesoftheNYCCitibikeAnalysis?publish=yes)
-https://public.tableau.com/app/profile/lida.ghalam/viz/BikeSharing_16173228046210/NYCStory
+[Click Here to View Tableau Story](https://public.tableau.com/app/profile/lida.ghalam/viz/BikeSharing_16173228046210/NYCStory)
+
 
 In general New Yorkers use the bikes for commuting to work and home as the most popular times are morning and after work period of time.The bikes are also used during weekend for leisure and commuting. Young male customers are the dominent users.Majory of bikers are subscribers.  
 
